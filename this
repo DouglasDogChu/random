@@ -1,0 +1,47 @@
+[
+  {
+    "Region": "North",
+    "Latitude": -2.1631,
+    "Longitude": -55.1266,
+    "Min Latitude": -5.5,
+    "Max Latitude": 5.2,
+    "Min Longitude": -73.9,
+    "Max Longitude": -46.6
+  },
+  {
+    "Region": "Northeast",
+    "Latitude": -8.391,
+    "Longitude": -38.5487,
+    "Min Latitude": -17.5,
+    "Max Latitude": -1,
+    "Min Longitude": -46,
+    "Max Longitude": -34.8
+  },
+  {
+    "Region": "Central-West",
+    "Latitude": -15.6,
+    "Longitude": -56.1,
+    "Min Latitude": -21.3,
+    "Max Latitude": -7,
+    "Min Longitude": -61,
+    "Max Longitude": -45
+  },
+  {
+    "Region": "Southeast",
+    "Latitude": -21,
+    "Longitude": -43,
+    "Min Latitude": -24,
+    "Max Latitude": -18,
+    "Min Longitude": -51,
+    "Max Longitude": -39
+  },
+  {
+    "Region": "South",
+    "Latitude": -27.5954,
+    "Longitude": -51.1628,
+    "Min Latitude": -33.8,
+    "Max Latitude": -25,
+    "Min Longitude": -57.6,
+    "Max Longitude": -48.3
+  }
+]
